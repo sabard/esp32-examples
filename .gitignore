@@ -1,0 +1,9 @@
+# vscode
+esp32-examples/
+.vscode/
+
+# build
+build/
+dependencies.lock
+managed_components/
+sdkconfig
